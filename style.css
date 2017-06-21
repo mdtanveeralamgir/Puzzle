@@ -1,0 +1,15 @@
+*{
+	font-family:Verdana, Geneva, sans-serif;
+	}
+	
+body{
+	
+	background-color:#033;
+	
+	}
+	
+.table, tr, td{
+	height: 90px;
+	width:90px;
+	}
+	
